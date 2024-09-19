@@ -8,6 +8,9 @@
 
 My motivation for this project was to make a social network backend. I build this project to help with social networks. It solves the problem of needing a backend for a social network. I learned how you can use other schemas instead of just sql.
 
+## Deployment
+https://youtu.be/wr4hvrSvWT0 
+
 ## Installation
 
 To get started clone this repository run npm i to install all the necessary files with "mongoose" and "express".
